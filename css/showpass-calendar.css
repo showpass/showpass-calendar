@@ -393,3 +393,7 @@
     height: 75px !important;
   }
 }
+
+.open-showpass-widget {
+  cursor: pointer;
+}
